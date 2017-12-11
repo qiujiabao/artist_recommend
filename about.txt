@@ -1,0 +1,6 @@
+Group project by:
+Janice Kim
+Jiabao Qiu
+Phillip Hui
+
+Using Spotify APIs.
